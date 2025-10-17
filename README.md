@@ -1,7 +1,10 @@
 # SOSTENIBILIDAD
 
+### 17.10.2025
+Hoy hemos visto las diferentes relaciones entre especies y las relaciones entre los seres humanos. ¿Que hacemos nosotros, cooperamos o competimos? Si hablamos de los seres humanos depende, porque hacemos ambas, siempre estamos cooperando y compitiendo a la misma vez, por ejemplo dos equipos de trabajo que copeeran para competir entre ellos, el fin podríamos decir que siemrpe es el mismo, sobrevivir como especie por eso cooperamos entre nosotros al igual que competimos.
+
 ### 10.10.2025
-No he podido asistir a clase. Mis compañeros me han comentado que se estuvo hablando del limite de carga de los ecosistemas. ¿Hay un limite para la población humana?
+No he podido asistir a clase. Mis compañeros me han comentado que se estuvo hablando del limite de carga de los ecosistemas. La pregunta del día ¿Hay un limite para la población humana? Como para todo hay un limite, y mas si queremos sobrevir, si extinguimos los recursos naturales, no podríamos sobrevir por eso hay que encontrar una balanza de consumo.
 
 ### 03.10.2025
 
