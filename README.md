@@ -15,6 +15,8 @@ En la clase de hoy hemos visto que es el analisis del ciclo de vida, es decir, u
 >distancia y medios de transporte,
 >eficiencia logística
 
+![alt text](image.png)
+
 ### SESION 7 - 31.10.2025
 En la sesion de hoy hemos visto información sobre los recursos de la tierra y si estos son finitos o no. ¿Es la tierra infinita? Esta era una de las preguntas que hemos respondido, la cual su respuesta es no porque los recursos de la tierra son finitos, al menos los que necesitamos los humanos para continuar con nuestra especie, es cierto que aunque sean finitos, no sabemos cuando se nos van a acabar. Hay 3 facetas dentro de la sostenibilidad del planeta segun nos concierne a los humanos, social, ambiental, economica. Hay que tener un equilibrio de las 3 para poder aguantar el maximo tiempo como especie. Respecto a la medida de sostenibilidad que he escogido es reducir el consumo de papel digitalizando los archivos que no sean necesarios en papel.
 
