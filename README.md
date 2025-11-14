@@ -1,5 +1,20 @@
 # SOSTENIBILIDAD
 
+### SESION 8 - 14.11.2025
+La diferencia de fecha de 2 semenas se debe a que en la anterior clase el profesor no asistió, por lo que no vimos ningún tema. 
+En la clase de hoy hemos visto que es el analisis del ciclo de vida, es decir, un método para calcular el peso oculto de los productos que elaboramos los seres humanos. ¿Qué es el peso oculto?, la cantidad de materiales y recursos usados para producir y transportar un producto que no se refleja en su peso final. Este metodo sirve para evaluar los impactos medioambientales de un producto o proceso desde su fabricación hasta su disposición final.
+
+¿Cuál es el peso oculto que se generá desde el punto en el cual se embala un altavoz hasta que llega a la puerta de tu casa? Respuesta según la IA:
+
+> Siguiendo la metodología ACV, el “peso oculto” generado desde que un altavoz se embala hasta que llega a tu casa suele estar en el rango:
+>10 a 20 kg de peso oculto por unidad
+
+>Dependiendo de:
+>País de origen, 
+>materiales del embalaje,
+>distancia y medios de transporte,
+>eficiencia logística
+
 ### SESION 7 - 31.10.2025
 En la sesion de hoy hemos visto información sobre los recursos de la tierra y si estos son finitos o no. ¿Es la tierra infinita? Esta era una de las preguntas que hemos respondido, la cual su respuesta es no porque los recursos de la tierra son finitos, al menos los que necesitamos los humanos para continuar con nuestra especie, es cierto que aunque sean finitos, no sabemos cuando se nos van a acabar. Hay 3 facetas dentro de la sostenibilidad del planeta segun nos concierne a los humanos, social, ambiental, economica. Hay que tener un equilibrio de las 3 para poder aguantar el maximo tiempo como especie. Respecto a la medida de sostenibilidad que he escogido es reducir el consumo de papel digitalizando los archivos que no sean necesarios en papel.
 
