@@ -1,5 +1,11 @@
 # SOSTENIBILIDAD
 
+### SESION 9 - 28.11.2025
+Hoy en clase hemos visto la diferencia entre la economía líneal y la economía circular sobre todo centrandonos en la circular. También como la sociedad se ha ido dando cuenta de que la economía circular no solo es mas sostenible, si no que también hay un buen negocio y generan mas trabajo y menos residuos. Siguiendo con la pregunta de hoy: ¿En que nos afecta el ecodiseño? Sabiendo que el ecodiseño es un enfoque de diseño que incorpora criterios ambientales en la creación de un producto o servicio con el objetivo de minimizar el impacto medioambiental durante todo el ciclo de vida de ese producto o servicio. El ecodiseño nos influye tanto a los consumidores como a las empreses. Por ejemplo, los consumidores tendremos productos con mayor eficiencia energética, que generen menos residuos etc, y para las empresas ahorro en el costo de materiales y gestión de los residuos, innovación en el mercado con productos mas "sostenibles" etc. En resumen el ecodiseño es una manera de sostenibilidad del medioambiente a la par que creación de negocio.
+
+![alt text](image-1.png)
+
+
 ### SESION 8 - 14.11.2025
 La diferencia de fecha de 2 semenas se debe a que en la anterior clase el profesor no asistió, por lo que no vimos ningún tema. 
 En la clase de hoy hemos visto que es el analisis del ciclo de vida, es decir, un método para calcular el peso oculto de los productos que elaboramos los seres humanos. ¿Qué es el peso oculto?, la cantidad de materiales y recursos usados para producir y transportar un producto que no se refleja en su peso final. Este metodo sirve para evaluar los impactos medioambientales de un producto o proceso desde su fabricación hasta su disposición final.
