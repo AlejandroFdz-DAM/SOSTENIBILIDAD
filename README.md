@@ -1,5 +1,16 @@
 # SOSTENIBILIDAD
 
+### SESION 10 - 05.12.2025
+Huella ecologica o huella de carbono. Demanda vs Oferta es la contabilidad de los recursos, comparamos lo que consumimos con lo que la tierra puede generar. Unidad de medidad Hectareas globales. Principal causa del cambio climatico emisiones de CO2. Respondiendo a la pregunta de hoy de cual es nuestra huella de carbono.
+
+En la clase de hoy hemos visto que es la Huella ecologica y como afecta a nuestro planeta tierra. Una definición de huella ecologica podría ser la comparación entre los residuos que generamos con los que el planeta Tierra puede digerir. Esto se puede medir en la contabilidad de los recursos es decir la cantidad de recursos que consmimos con la cantidad que la tierra puede generar. También hemos visto que actualmenta la principal causa de la huella ecologica es la huella de carbono es decir el CO2 que emitimos.
+
+Respondiendo a la pregunta, cual es nuestra huella de carbono, a través de la página web footprintcalculator.org podemos sacar un estimación, en mi caso:
+
+![alt text](image-2.png)
+
+Lo que nos quiere decir es que si todas las personas llevasemos ese mismo ritmo de vida para durar un año necesitariamos 5.2 tierras cosa que no es sostenible claramente.
+
 ### SESION 9 - 28.11.2025
 Hoy en clase hemos visto la diferencia entre la economía líneal y la economía circular sobre todo centrandonos en la circular. También como la sociedad se ha ido dando cuenta de que la economía circular no solo es mas sostenible, si no que también hay un buen negocio y generan mas trabajo y menos residuos. Siguiendo con la pregunta de hoy: ¿En que nos afecta el ecodiseño? Sabiendo que el ecodiseño es un enfoque de diseño que incorpora criterios ambientales en la creación de un producto o servicio con el objetivo de minimizar el impacto medioambiental durante todo el ciclo de vida de ese producto o servicio. El ecodiseño nos influye tanto a los consumidores como a las empreses. Por ejemplo, los consumidores tendremos productos con mayor eficiencia energética, que generen menos residuos etc, y para las empresas ahorro en el costo de materiales y gestión de los residuos, innovación en el mercado con productos mas "sostenibles" etc. En resumen el ecodiseño es una manera de sostenibilidad del medioambiente a la par que creación de negocio.
 
