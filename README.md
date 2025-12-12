@@ -1,5 +1,16 @@
 # SOSTENIBILIDAD
 
+### SESION 11 - 12.12.2025
+Cambio climatico. Porque el cambio climatico preocupa el ministerio del exterior. ¿Cual es el principal emisor de C02? ¿Qué sistemas te podrían pedir para combatir el cambio climatica en nuestro sector?
+
+En esta clase hemos visto porque el cambio climatico puede ser una preocupación para el ministerio del exterior de un país. El principal motivo es que el cambio climatico, como bien indica su nombre, produce cambios a los que nos tenemos que adaptar y si esa adaptación no depende solo de un país pueden haber conflictos. Respondiendo a las preguntas de hoy:
+
+¿Cuál es el principal emisor de CO2? A nivel global, el principal emisor de CO2 es el sector energético, a la hora de producir calor o electricidad con la quema de combustibles fósiles.
+
+Dentro del sector de la informatica ¿Qué sistemas te podrían pedir para combatir el cambio climatico? Primero de todo te podrían pedir que diseñases un sistema para saber el consumo de energía. Una vez tenga el sistema del consumo de energía, te pedirían que optimizases los procesos que se hagan en tu empresa para consumir menos energía. Un ejemplo podría ser cambiar las pantallas a unas mas eficientes o las fuentes de alimentación de los ordenadores o cambiar el tipo de energía a una renovable como puede ser la energía solar.
+
+![alt text](image-3.png)
+
 ### SESION 10 - 05.12.2025
 Huella ecologica o huella de carbono. Demanda vs Oferta es la contabilidad de los recursos, comparamos lo que consumimos con lo que la tierra puede generar. Unidad de medidad Hectareas globales. Principal causa del cambio climatico emisiones de CO2. Respondiendo a la pregunta de hoy de cual es nuestra huella de carbono.
 
