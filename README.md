@@ -1,5 +1,21 @@
 # SOSTENIBILIDAD
 
+### SESION 12 - 09.01.2026
+#### RESIDUOS
+En la clase de hoy hemos hablado sobre la contaminación y los residuos que generamos. Una de las cuestiones que han surgido ha sido qué son los residuos, cuya definición es cualquier sustancia u objeto que su poseedor deseche o tenga la intención de desechar.
+
+También hemos tratado el concepto de bioacumulación, es decir, cómo esos desechos se van acumulando a lo largo de los distintos procesos por los que pasan y cómo pueden afectar a nuestro organismo. Este fenómeno puede entenderse de manera sencilla mediante el siguiente símil: los peces acumulan mercurio, y cuanto menor es su tamaño, menor cantidad de mercurio contienen. Sin embargo, los peces más grandes se alimentan de los pequeños y, de este modo, van acumulando no solo el mercurio que generan, sino también el que ya estaba presente en los peces que consumen.
+
+Dado que los seres humanos nos encontramos en lo alto de la cadena alimentaria, terminamos acumulando todo ese mercurio. Trasladando este ejemplo al concepto de bioacumulación, podemos observar un proceso similar con los microplásticos que generamos y cómo estos se van propagando y acumulando cada vez más en el medio ambiente y en los organismos vivos.
+
+Respondiendo a la pregunta de hoy, ¿Por que cambiaste tu último movil? Pués en mi caso fue porque mi abuela necesitaba un móvil mejor y yo recientemente había comprado uno, aproveché y compré el móvil que yo quería y le di el mío "antiguo" a mi abuela.
+
+#### REFLEXIÓN PERSONAL
+Tras lo visto en clase, considero que la contaminación y la generación de residuos son problemas mucho más graves de lo que solemos percibir en nuestro día a día. Muchas veces no somos conscientes de que los residuos que desechamos no desaparecen, sino que permanecen en el medio ambiente y acaban afectando tanto a los ecosistemas como a nuestra propia salud.
+
+![alt text](image-4.png)
+
+
 ### SESION 11 - 12.12.2025
 Cambio climatico. Porque el cambio climatico preocupa el ministerio del exterior. ¿Cual es el principal emisor de C02? ¿Qué sistemas te podrían pedir para combatir el cambio climatica en nuestro sector?
 
