@@ -1,5 +1,17 @@
 # SOSTENIBILIDAD
 
+### SESION 13 - 16.01.2026
+#### AGENDA 2030 Y ODS (Objetivos de Desarrollo Sostenible)
+En la clase de hoy hemos hablado de la Agenda 2030 y de los ODS (Objetivos de desarrollo sostenible). Son dos terminos muy relacionados porque realmente la agenda 2030 es el límite que se propusieron todos los paises para alcanzar todos los objetivos de desarrollo sostenible.
+
+Nos hemos centrado sobre todo en que son objetivos que realmente nos interesan a todos, pero son muy ambiguos, y en que la forma de llegar a ellos es donde entra el debate, es decir, un objetivo de desarrollo sostenible como puede ser poner fin al hambre en el mundo, es algo que mires por donde lo mires es bueno para todo el mundo, pero el debate entra en como lo consigues acabar con el hambre en el mundo y si es realmente viable.
+
+Uno de los problemas que podemos encontrar a la par que se intenta cumplir los objetivos es un termino conocido como GreenWashing. Su significado es cuando una empresa utiliza los objetivos de desarrollo sostenible para parecer verde, pero en realidad no tiene casi impacto verde las medidas que han tomado.
+
+A la pregunta de hoy, ¿se van a conseguir los objetivos de desarrollo sostenible?: Yo creo que no, aún menos antes del 2030 por varias razones. Una de ellas para mi de las mas importantes es la inviabilidad economíca que tiene cumplir los objetivos, al menos de la manera que los tienen planteado. Por eso pienso que o se le da una vuelta a la manera llegar a esos objetivos o probablemente nunca se puedan cumplir.
+
+![alt text](image-5.png)
+
 ### SESION 12 - 09.01.2026
 #### RESIDUOS
 En la clase de hoy hemos hablado sobre la contaminación y los residuos que generamos. Una de las cuestiones que han surgido ha sido qué son los residuos, cuya definición es cualquier sustancia u objeto que su poseedor deseche o tenga la intención de desechar.
