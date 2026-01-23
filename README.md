@@ -1,5 +1,13 @@
 # SOSTENIBILIDAD
 
+### SESION 14 - 23.01.2026
+#### PLAN DE SOSTENIBILIDAD EN LAS EMPRESAS
+En la clase de hoy hemos visto como hoy en día la sostenibilidad ya no solo una estrategía si no una condición de supervivencia para las empresas. En la tierra los recursos son limitados y si no orientamos las cadenas de producción, servicios etc... a la sostenibilidad va a llegar un punto donde los recursos se acaben y ya no sea que caro es este producto, si no, que no existe ese producto.
+
+Respondiendo a la pregunta de hoy si las empresas realmente buscan una transformación o un lavado de cara también conocido como greenwashing. Yo creo que principalmente las empresas hacen un poco de los 2, buscan un lavado de cara pero también no quedarse sin recursos. Para mi el problema real esta en la leyes que tienen que seguir, muchas de ellas, en mi punto de vista no son realmente sostenibles si no que tienen otros intereses.
+
+![alt text](image-6.png)
+
 ### SESION 13 - 16.01.2026
 #### AGENDA 2030 Y ODS (Objetivos de Desarrollo Sostenible)
 En la clase de hoy hemos hablado de la Agenda 2030 y de los ODS (Objetivos de desarrollo sostenible). Son dos terminos muy relacionados porque realmente la agenda 2030 es el límite que se propusieron todos los paises para alcanzar todos los objetivos de desarrollo sostenible.
