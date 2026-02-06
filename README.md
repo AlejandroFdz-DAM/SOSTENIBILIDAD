@@ -1,5 +1,11 @@
 # SOSTENIBILIDAD
 
+### SESION 15 - 06.02.2026
+#### EXPOSICIONES DE LA WEB GRUPAL
+En la clase de hoy han expuesto todos los grupos su página web. Se han hablado de diferentes civilizaciones antiguas y su relación con los recursos naturales y sostenibilidad. Posteriormente cada miembro de los grupos han hablado sobre su acción sostenible. Destaco personalmente mi acción sostenible, por que creo que he sido el único junto a victor que ha destacado el impacto negativo de ambas.
+
+En conclusión creo que el tiempo era muy limitado para la extensión de la web. Aún así espero que se tenga en consideración el trabajo realizado.
+
 ### SESION 14 - 23.01.2026
 #### PLAN DE SOSTENIBILIDAD EN LAS EMPRESAS
 En la clase de hoy hemos visto como hoy en día la sostenibilidad ya no solo una estrategía si no una condición de supervivencia para las empresas. En la tierra los recursos son limitados y si no orientamos las cadenas de producción, servicios etc... a la sostenibilidad va a llegar un punto donde los recursos se acaben y ya no sea que caro es este producto, si no, que no existe ese producto.
